@@ -1,1 +1,33 @@
-/* Start coding here */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+    background-color: #f0f0f0;
+}
+
+.box-1 {
+    width: 90vw;
+    height: 25rem;
+    background-color: orange;
+    color: black;
+    font-size: 24px;
+}
+
+.box-2 {
+    width: 90vw;
+    height: 25rem;
+    background-color: khaki;
+    color: black;
+    font-size: 24px;
+}
+.box-3 {
+    width: 90vw;
+    height: 50rem;
+    background-color: cornflowerblue;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
